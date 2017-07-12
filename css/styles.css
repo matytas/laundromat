@@ -85,7 +85,7 @@ transform: translateY(-50%);}
 
     header{
       width:100%;
-      max-width: 1200px;
+      max-width: 90%;
       height:100px;
       background-color: orange;
     }
@@ -99,6 +99,10 @@ transform: translateY(-50%);}
     .header-link{
       text-decoration: none;
       display: inline-block;
+    }
+    a {
+      text-decoration:none;
+      color:black!important;
     }
 /*row1*/
 
